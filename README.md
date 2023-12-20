@@ -3,7 +3,7 @@
 I'm a passionate software development student based in Chihuahua, Mexico. Currently in my third year, I'm focusing on honing my skills in various technologies.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python (Intermediate), Java
+- **Languages:** Python (Intermediate), Java (OOP)
 - **Operating System:** Linux (Intermediate commands)
 - **Frameworks:** Django
 - **Containers:** Docker
