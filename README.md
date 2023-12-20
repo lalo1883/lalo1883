@@ -27,9 +27,3 @@ Feel free to reach out and connect! I'm always open to collaboration and learnin
 - [Portfolio](https://lalonunez.tech/)
 - [Email](mailto:eduardonunez975@gmail.com)
 
-
-## 📚 Featured Projects
-- [Project 1](link-to-project-1)
-- [Project 2](link-to-project-2)
-
-
