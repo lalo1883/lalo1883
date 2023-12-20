@@ -23,8 +23,8 @@ My goal is to secure an internship and contribute to the world of software devel
 ## 🤝 Let's Connect
 Feel free to reach out and connect! I'm always open to collaboration and learning from others.
 
-[LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/joseeduardonunez/))
-[Portfolio]([your-portfolio-if-you-have-one](https://lalonunez.tech/))
+[LinkedIn]((https://www.linkedin.com/in/joseeduardonunez/))
+[Portfolio]((https://lalonunez.tech/))
 [Email](mailto:eduardonunez975@gmail.com)
 
 
