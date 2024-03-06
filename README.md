@@ -12,10 +12,10 @@ I'm a passionate software development student based in Chihuahua, Mexico. Curren
 
 ## 🌱 Currently Learning
 
-- Docker
-- Spring
+- C++
+- Java
 - Scrum and Agile
-- React Native
+- Python
 
 ## 🚀 Goals
 My goal is to secure an internship and contribute to the world of software development. I'm enthusiastic about learning new technologies and constantly improving my skills.
