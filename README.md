@@ -1,27 +1,24 @@
 # Hi there, I'm Lalo! 👋
 
-I'm a passionate software development student based in Chihuahua, Mexico. Currently in my third year, I'm focusing on honing my skills in various technologies.
+I'm a  software development student based in Chihuahua, Mexico. Currently in my third year, I'm focusing on imrpove my skills in various technologies.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python (Intermediate), Java (OOP)
-- **Operating System:** Linux (Intermediate commands)
-- **Frameworks:** Django
-- **Containers:** Docker
+- **Languages:** Python (Intermediate), C++ (OOP), Java.
+- **Operating System:** Linux (Intermediate commands) / Windows
 - **GitHub**
 - **Databases**
 
 ## 🌱 Currently Learning
-
-- C++
+- C++ with DSA
 - Java
 - Scrum and Agile
 - Python
 
 ## 🚀 Goals
-My goal is to secure an internship and contribute to the world of software development. I'm enthusiastic about learning new technologies and constantly improving my skills.
+My goal is to secure an internship and contribute to the world of software development. I'm learning new technologies and constantly improving my skills.
 
 ## 🤝 Let's Connect
-Feel free to reach out and connect! I'm always open to collaboration and learning from others.
+Feel free to reach out and connect!.
 
 - [LinkedIn](https://www.linkedin.com/in/joseeduardonunez/)
 - [Portfolio](https://lalonunez.tech/)
