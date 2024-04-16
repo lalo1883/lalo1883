@@ -10,8 +10,8 @@ I'm a  software development student based in Chihuahua, Mexico. Currently in my 
 
 ## 🌱 Currently Learning
 - C++ with DSA
-- Java
-- Scrum and Agile
+- Linux
+- DevOps technologies and culture
 - Python
 
 ## 🚀 Goals
