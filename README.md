@@ -9,13 +9,13 @@ I'm a  software development student based in Chihuahua, Mexico. Currently in my 
 - **Databases**
 
 ## 🌱 Currently Learning
-- C++ with DSA
-- Linux
-- DevOps technologies and culture
+- Pandas & Numpy
+- DataBases
+- DataScience
 - Python
 
 ## 🚀 Goals
-My goal is to secure an internship and contribute to the world of software development. I'm learning new technologies and constantly improving my skills.
+My goal is to contribute the world with research and data.
 
 ## 🤝 Let's Connect
 Feel free to reach out and connect!.
